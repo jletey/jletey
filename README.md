@@ -1,4 +1,11 @@
-### Hi there 👋
+For reasons; Since March of 2020, I have stopped using this account.
+
+However, you can find all my latest and greatest projects here: [**@johnletey**](https://github.com/johnletey).
+
+Cheers,<br/>
+John Letey
+
+> August 4th, 2020
 
 <!--
 **jletey/jletey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
